@@ -1,21 +1,57 @@
+Jeet Shah
 
-Introducing Jeet: Seasoned Data and Business Analyst with a Passion for Insightful Analytics
-Hello GitHub community!
 
-I'm excited to introduce you to Jeet, a highly skilled and seasoned data and business analyst with a proven track record of delivering data-driven insights and optimizing business processes. With extensive experience in technical tools such as Power BI, MySQL, MSSQL, PostgreSQL, Python, advanced Excel, and Google Sheets, Jeet is well-equipped to tackle complex data challenges and derive actionable intelligence from raw data.
+Strategy & Insights Professional | Data Analytics | Consumer Research | GTM Strategy
+Results-oriented Strategy & Insights professional with experience driving data-backed decisions across FMCG, consulting, and market research. Recognized for delivering high-impact brand projects and passionate about entrepreneurial problem-solving, GTM strategy, and turning analytics into business value.
+📞 +91 9316680312 | 📧 jeetshahx@gmail.com | LinkedIn | Portfolio
+🛠️ Technical Skills
 
-Professional Background
-Jeet recently completed an enriching internship at Maxgen Technologies, where he honed his analytical prowess and applied his technical expertise to make a significant impact on the Atliq Hardware project. During his time at Maxgen, Jeet utilized MySQL to create comprehensive Profit and Loss (P&L) reports, providing crucial financial insights to the company. His ingenious automation skills led to the successful automation of more than eight types of reports, greatly enhancing efficiency and accuracy.
+Data & Analytics: SQL, Excel (Advanced), Power BI, Fabric, Tableau, SPSS, DAX, Query Optimization
+Research Tools: XL-STAT, Statistical Modeling (Significance Testing, Regression Analysis, BI-Plot)
+Automation: Power Automate, Macros, TIBCO Spotfire
+Collaboration: Notion, Jira
 
-Master of Query Optimization
-One of Jeet's standout achievements during his internship was optimizing SQL queries. With his determination and technical know-how, he achieved an impressive 84% reduction in query time. This optimization played a pivotal role in enabling faster data retrieval and empowering stakeholders with real-time information for better decision-making.
+📊 Professional Experience
+Executive - Consumer Insights at Smytten (Apr 2024 - Feb 2025)
 
-Empowering Business Intelligence with Power BI
-Jeet's expertise extends to crafting powerful and multi-functional Power BI dashboards that cater to diverse business needs. In a single dashboard, he seamlessly integrated sales, marketing, finance, supply chain, executive views, and P&L reports. This comprehensive visualization provided stakeholders with a holistic view of the company's performance and streamlined data-driven decision-making processes.
+Led 15+ high-impact brand projects for top FMCG companies from proposal design to insights delivery
+Conducted end-to-end consumer testing for product launches, packaging decisions, and market entry strategies
+Applied advanced statistical methods (Linear Regression, BI-Plot, significance testing) to derive actionable insights
+Achievement: Offered fast-tracked 2-level promotion in 10 months with Letter of Recommendation
 
-Why Connect with Jeet on GitHub?
-Collaborating with Jeet opens up exciting opportunities for enhancing data analytics, business intelligence, and reporting capabilities. His in-depth knowledge and hands-on experience in a variety of technical tools make him an invaluable asset for any data-driven project. Whether you're looking to optimize your SQL queries, automate report generation, or unlock the full potential of Power BI, Jeet's expertise and dedication are sure to make a positive impact.
+Client Service Associate (Consulting) at Numerator (Aug 2023 - Mar 2024)
 
-So, let's join hands and explore the endless possibilities of data-driven insights together! Don't hesitate to connect with Jeet on GitHub, where he is eager to collaborate, share knowledge, and contribute to the vibrant data analytics community.
+Delivered 50+ strategic analytics projects for major clients including Hershey's, Walmart & B&G
+Transformed consumer data from 150,000+ households into actionable business insights
+Created complex shopper and performance reports (Leakage Tree, Cross-Purchase, Promotion Effectiveness)
+Automated reporting processes, saving 50+ hours through custom-built templates
 
-Stay curious, stay analytical, and let's unleash the true power of data!
+Management Consultant at Jobaaj Group (Mar 2025 - Present)
+
+Led performance analysis of $50M+ in paid media spend across multiple platforms
+Developed go-to-market strategies and business optimization plans for clients
+Identified significant cost savings opportunities through data-driven analysis
+
+Data Analyst at MaxGen Technologies (Jan 2023 - Jun 2023)
+
+Developed multi-functional Power BI dashboards integrating data from SQL & Excel
+Automated recurring reports using SQL, reducing manual work by 5+ hours daily
+Optimized SQL queries using DAX Studio, improving performance by 84%
+
+🏆 Achievements
+
+Fast-track Promotion: Offered 2-level advancement within 10 months at Smytten
+Rank 1: Product Management Competition
+Leadership: HR Executive at Sambhaj Organization, managing a team of 10+ people
+
+🎓 Education
+
+Nano Degree: Management Consulting - Esha College of Engineering & Management (Ongoing)
+B.E. Mechanical Engineering: Government Engineering College, Bhavnagar (2019-2023) - 8.0/10 CGPA
+
+💼 Core Competencies
+
+Research & Analysis: Market sizing, competitive benchmarking, pricing analysis, usage & attitude studies
+Strategic Planning: Go-to-market strategy, business model design, strategic roadmapping
+Problem Solving: Hypothesis-driven approaches, MECE framework, issue trees, case structuring
+Stakeholder Management: Client communication, executive reporting, cross-functional collaboration
